@@ -6,7 +6,8 @@
 - RICHO ALBERT TIO 
 - LOKA SANDRI BAHTIAR 
 - RHOLAND DEO EKA PUTRA 
-- MUHAMMAD RIANDY J 
+- MUHAMMAD RIANDY RIANDY JAMAIN 
+
 
 # Usaha Makanan ringan dan Minuman viral
 - fruit sando
