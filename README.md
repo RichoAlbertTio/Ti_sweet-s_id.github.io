@@ -9,3 +9,8 @@
 - MUHAMMAD RIANDY J 
 
  
+# Usaha Makanan ringan dan Minuman viral
+- fruit sando
+- bola susu
+- spirte yakulkt
+
