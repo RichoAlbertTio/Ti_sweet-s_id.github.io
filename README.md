@@ -1,4 +1,4 @@
-#  Tugas Technoprenuership Kelompok 1
+#  Tugas Technoprenuership Kelompok 1 :)
 - LESTI EGI KARLINA 
 - FEBRI HARIYANIE 
 - RABIAH
