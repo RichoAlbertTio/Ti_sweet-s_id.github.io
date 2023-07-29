@@ -55,14 +55,14 @@ header {
     transition: width.3s;
 }
 
-.header::after {
+/* .header::after {
     content: '';
     display: flex;
     width: 0px;
     height: 2px;
     background-color: black;
     transition: width.3s;
-}
+} */
 
 .header:hover::after {
     width: 100%;
@@ -170,7 +170,7 @@ ul li a {
     width: 560px;
     height: auto;
     padding-top: 310px;
-    margin-left: 932px;
+    margin-left: 55%;
     padding-bottom: 1000px;
     background-size: cover;
 }
@@ -320,6 +320,7 @@ ul li a {
 .maps {
     background-color: #f7f7f7;
     height: 400px;
+    
 }
 /* ========== TUTUP ITEM MAPS =============== */
 
