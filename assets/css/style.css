@@ -561,20 +561,4 @@ textarea {
     margin-left: 32px;
   }
 }
-@media screen and (min-width: 1024px) {
-  .maps iframe {
-    width: 700px;
-  }
-  .about img {
-    width: 252px;
-    height: auto;
-    margin-left: -40px;
-  }
-  .about p {
-    margin-left: -635px;
-    padding-top: 420px;
-    text-align: justify;
-    width: 955px;
-  }
-}
 /* ============== TUTUP ITEM RESPONSIVE ============= *//*# sourceMappingURL=style.css.map */
